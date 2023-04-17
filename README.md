@@ -21,5 +21,13 @@ Buscava-se responder as seguintes questões sobre o modelo de negócios, entre e
 
  ## Resultado
  
+ As questões foram respondidas a partir dos estudos feitos e foram apresentados ainda diferentes cenários para uma melhor previsão dos resultados e viabilidade do empreendimento, permitindo assim uma melhor tomada de decisão para o investidor. Foi feito o upload do arquivo gerado em Power BI assim como prints dos dashboards feitos a seguir:
+ 
+ ![](/images/mercado.png)
+ 
+ ![](/images/indicadores.png)
+ 
+ 
+ 
  
  
